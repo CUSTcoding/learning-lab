@@ -271,19 +271,6 @@ Explorando como Rust implementa conceitos normalmente associados à Programaçã
 
 ---
 
-## 16 — Projetos
-
-Pequenos projetos para consolidar os fundamentos de Rust.
-
-* Calculadora
-* CLI
-* Conversor
-* Sistema de arquivos simples
-* Estruturas de dados
-* Pequenas ferramentas relacionadas a Bitcoin
-
----
-
 # 🎁 Bônus — EDA
 
 **Estruturas de Dados e Algoritmos**
